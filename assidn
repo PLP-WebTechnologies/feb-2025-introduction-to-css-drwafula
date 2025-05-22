@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Creative Page</title>
+  <link rel="stylesheet" href=".css">
+</head>
+<body>
+
+  <h1 id="main-heading">🌈 Welcome to My Colorful World</h1>
+
+  <p class="intro-text">
+    This page is styled using an external CSS file. It’s clean, colorful, and fun to read!
+  </p>
+
+  <img src="https://via.placeholder.com/250" alt="Placeholder Image" class="styled-image">
+
+  <div class="box">
+    <p>This is a styled box with padding, margin, and borders 🎨</p>
+  </div>
+
+</body>
+</html>
